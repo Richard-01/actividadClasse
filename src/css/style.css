@@ -1,0 +1,14 @@
+
+
+.elementoPrincipal {
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.elementoSecundario {
+    padding: 50px;
+    background-color: lightgreen;
+}
+p {
+    font-size: large;
+}
