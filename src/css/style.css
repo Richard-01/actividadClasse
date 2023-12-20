@@ -1,13 +1,23 @@
 
 
 .elementoPrincipal {
-    border: 2px solid black;
+    border: 5px solid lightseagreen;
     border-radius: 10px;
+}
+.elementoSecundario2 {
+    border: 5px solid lightcoral;
+    border-radius: 12px;
 }
 
 .elementoSecundario {
     padding: 50px;
     background-color: lightgreen;
+}
+
+
+.elementoSecundario2 {
+    padding: 40px;
+    background-color: lightpink;
 }
 p {
     font-size: large;
